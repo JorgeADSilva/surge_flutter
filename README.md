@@ -25,3 +25,5 @@ After this we only need to run the surge command inside our **BUILD/WEB** folder
 With this, if you dont have an account created, the command will ask you to register your credentials and then will ask you about the folder that you want to deploy (it will present the path of your build/web folder if you runned the command inside it like mentioned before) and your custom domain. (that needs to end with ``surge.sh``).
 
 CONGRATULATIONS!!! Now if you enter your domain in the browser you can see your flutter project working 😁 !
+
+You can see an example from this worflow in my personal test http://jorge-home.surge.sh/#/.
